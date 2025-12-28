@@ -9,7 +9,7 @@
   "servers": [
     {
       "id": "crashZombieIsland-1.20.1",
-      "name": "crashZombieIsland (Minecraft 1.20.1)",
+      "name": "추락: 좀비섬 생존기",
       "description": "Minecraft 1.20.1 (Forge v47.4.10)",
       "icon": "https://github.com/mchdistro/crashZombieIsland/raw/main/server-icon.png",
       "version": "1.0.0",
