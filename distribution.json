@@ -448,212 +448,325 @@
           ]
         },
         {
-          "id": "oculus.properties",
-          "name": "oculus.properties",
-          "type": "File",
+          "id": "com.github.argon4w:acceleratedrendering:1.0.8-1.20.1-alpha@jar",
+          "name": "Accelerated Rendering",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 289,
-            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/config/oculus.properties",
-            "MD5": "f7051b80672c0f9a6b43a3cfc9248fd8",
-            "path": "config/oculus.properties"
+            "size": 686792,
+            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/forgemods/required/acceleratedrendering-1.0.8-1.20.1-alpha.jar",
+            "MD5": "a6b03daabcd2b2420c1403e5291bb5b7"
           }
         },
         {
-          "id": "ad_astra_cannedfood-forge-1.2.5.jar",
-          "name": "ad_astra_cannedfood-forge-1.2.5.jar",
-          "type": "File",
+          "id": "com.valuefinve:ad_astra_cannedfood:1.2.5@jar",
+          "name": "Ad-Astra: CannedFood",
+          "type": "ForgeMod",
           "artifact": {
             "size": 69097,
-            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/mods/ad_astra_cannedfood-forge-1.2.5.jar",
-            "MD5": "c0a7d954f70efb434e8d13eca840b96f",
-            "path": "mods/ad_astra_cannedfood-forge-1.2.5.jar"
+            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/forgemods/required/ad_astra_cannedfood-forge-1.2.5.jar",
+            "MD5": "c0a7d954f70efb434e8d13eca840b96f"
           }
         },
         {
-          "id": "apocalypticarsenal-1.0.1.jar",
-          "name": "apocalypticarsenal-1.0.1.jar",
-          "type": "File",
+          "id": "org.admany:apocalypticarsenal:1.0.1@jar",
+          "name": "Apocalyptic Arsenal",
+          "type": "ForgeMod",
           "artifact": {
             "size": 3080423,
-            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/mods/apocalypticarsenal-1.0.1.jar",
-            "MD5": "1e3fb8c28a51ddd2ef3d4bf21bb1a86d",
-            "path": "mods/apocalypticarsenal-1.0.1.jar"
+            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/forgemods/required/apocalypticarsenal-1.0.1.jar",
+            "MD5": "1e3fb8c28a51ddd2ef3d4bf21bb1a86d"
           }
         },
         {
-          "id": "appleskin-forge-mc1.20.1-2.5.1.jar",
-          "name": "appleskin-forge-mc1.20.1-2.5.1.jar",
-          "type": "File",
+          "id": "squeek.appleskin:appleskin:2.5.1+mc1.20.1@jar",
+          "name": "AppleSkin",
+          "type": "ForgeMod",
           "artifact": {
             "size": 47428,
-            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/mods/appleskin-forge-mc1.20.1-2.5.1.jar",
-            "MD5": "dae63cea9c951dda542a4005ceef3953",
-            "path": "mods/appleskin-forge-mc1.20.1-2.5.1.jar"
+            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/forgemods/required/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "MD5": "dae63cea9c951dda542a4005ceef3953"
           }
         },
         {
-          "id": "architectury-9.2.14-forge.jar",
-          "name": "architectury-9.2.14-forge.jar",
-          "type": "File",
+          "id": "dev.architectury:architectury:9.2.14@jar",
+          "name": "Architectury",
+          "type": "ForgeMod",
           "artifact": {
             "size": 580602,
-            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/mods/architectury-9.2.14-forge.jar",
-            "MD5": "76b40d407b6bf0257dd1dab6d3d395d5",
-            "path": "mods/architectury-9.2.14-forge.jar"
+            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
+            "MD5": "76b40d407b6bf0257dd1dab6d3d395d5"
           }
         },
         {
-          "id": "curios-forge-5.14.1+1.20.1.jar",
-          "name": "curios-forge-5.14.1+1.20.1.jar",
-          "type": "File",
+          "id": "com.yourname:bleedingmod:1.2@jar",
+          "name": "Bleeding & First Aid",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 341325,
+            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/forgemods/required/bleedingmod-1.2.jar",
+            "MD5": "740390d29cb1cadc61626dcb39885bb2"
+          }
+        },
+        {
+          "id": "top.theillusivec4:curios:5.14.1+1.20.1@jar",
+          "name": "Curios API",
+          "type": "ForgeMod",
           "artifact": {
             "size": 398066,
-            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/mods/curios-forge-5.14.1+1.20.1.jar",
-            "MD5": "2fdcc97cbc66c4b2492b407c792e7159",
-            "path": "mods/curios-forge-5.14.1+1.20.1.jar"
+            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/forgemods/required/curios-forge-5.14.1+1.20.1.jar",
+            "MD5": "2fdcc97cbc66c4b2492b407c792e7159"
           }
         },
         {
-          "id": "embeddium-0.3.31+mc1.20.1.jar",
-          "name": "embeddium-0.3.31+mc1.20.1.jar",
-          "type": "File",
+          "id": "com.nanaios:curiosable_ammo_box:0.4.0@jar",
+          "name": "Curiosable_ammo_box",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 20393,
+            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/forgemods/required/curiosable_ammo_box-0.4.0.jar",
+            "MD5": "4c23f19b4912edcea364202ccd0d0e30"
+          }
+        },
+        {
+          "id": "net.mcreator:dyairdrop:1.0.0@jar",
+          "name": "Dyairdrop",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1394709,
+            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/forgemods/required/dyairdrop-1.0.0-1.20.1-hotfix3.0.jar",
+            "MD5": "7f96948c37ef32946b5b49f81335395f"
+          }
+        },
+        {
+          "id": "ua.lazydev418:echo_compass_hud:1.0.0@jar",
+          "name": "Echo Compass HUD",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14578,
+            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/forgemods/required/echo_compass_hud-1.0.0.jar",
+            "MD5": "7d4227805c232e36915a2d984f6e391a"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
+          "name": "Embeddium",
+          "type": "ForgeMod",
           "artifact": {
             "size": 1320675,
-            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/mods/embeddium-0.3.31+mc1.20.1.jar",
-            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7",
-            "path": "mods/embeddium-0.3.31+mc1.20.1.jar"
+            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
           }
         },
         {
-          "id": "geckolib-forge-1.20.1-4.8.2.jar",
-          "name": "geckolib-forge-1.20.1-4.8.2.jar",
-          "type": "File",
+          "id": "software.bernie.example:geckolib:4.8.2@jar",
+          "name": "GeckoLib 4",
+          "type": "ForgeMod",
           "artifact": {
             "size": 1038979,
-            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/mods/geckolib-forge-1.20.1-4.8.2.jar",
-            "MD5": "d1ff73da16b6fc163d6c5ed3d9734dde",
-            "path": "mods/geckolib-forge-1.20.1-4.8.2.jar"
+            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.8.2.jar",
+            "MD5": "d1ff73da16b6fc163d6c5ed3d9734dde"
           }
         },
         {
-          "id": "jei-1.20.1-forge-15.20.0.118.jar",
-          "name": "jei-1.20.1-forge-15.20.0.118.jar",
-          "type": "File",
+          "id": "de.maxhenkel:gravestone:1.20.1-1.0.35@jar",
+          "name": "Gravestone Mod",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 1408216,
-            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/mods/jei-1.20.1-forge-15.20.0.118.jar",
-            "MD5": "dd11c9a22aec410047adc5d08fe5e7dd",
-            "path": "mods/jei-1.20.1-forge-15.20.0.118.jar"
+            "size": 317181,
+            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/forgemods/required/gravestone-forge-1.20.1-1.0.35.jar",
+            "MD5": "c9a1a01c302368ed43270ceebb2c2251"
           }
         },
         {
-          "id": "journeymap-1.20.1-5.10.3-forge.jar",
-          "name": "journeymap-1.20.1-5.10.3-forge.jar",
-          "type": "File",
+          "id": "com.gitter:gtnick:1.0.0@jar",
+          "name": "GTNick Mod",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 7160406,
-            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/mods/journeymap-1.20.1-5.10.3-forge.jar",
-            "MD5": "be46ebd4654a75a03ecbc5497d2ddce9",
-            "path": "mods/journeymap-1.20.1-5.10.3-forge.jar"
+            "size": 95330,
+            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/forgemods/required/gtnick-forge-1.20.1-2.0.4.jar",
+            "MD5": "18a2d798e7e91b998f2b9188b3bf6293"
           }
         },
         {
-          "id": "koreanpatch-forge-1.9.0+mc1.20.1.jar",
-          "name": "koreanpatch-forge-1.9.0+mc1.20.1.jar",
-          "type": "File",
+          "id": "immersive_aircraft:immersive_aircraft:1.4.0+1.20.1@jar",
+          "name": "Immersive Aircraft",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 315488,
-            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/mods/koreanpatch-forge-1.9.0+mc1.20.1.jar",
-            "MD5": "dc6a73dcbec683185bd2e3c87ad8fb17",
-            "path": "mods/koreanpatch-forge-1.9.0+mc1.20.1.jar"
+            "size": 2428368,
+            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/forgemods/required/immersive_aircraft-1.4.0+1.20.1-forge.jar",
+            "MD5": "f49ff767f611a95f9bd29a0e9977d9d5"
           }
         },
         {
-          "id": "lrtactical-1.20.1-0.3.0.jar",
-          "name": "lrtactical-1.20.1-0.3.0.jar",
-          "type": "File",
+          "id": "com.hyfata.najoan.koreanpatch.client:koreanpatch:1.9.5+mc1.20.1@jar",
+          "name": "Korean Patch",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 316542,
+            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/forgemods/required/koreanpatch-forge-1.9.5+mc1.20.1.jar",
+            "MD5": "b7c99a33c48f6ae31de7f7f6038800c2"
+          }
+        },
+        {
+          "id": "me.xjqsh:lrtactical:0.3.0@jar",
+          "name": "LesRaisins Tactical Equipments",
+          "type": "ForgeMod",
           "artifact": {
             "size": 5185963,
-            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/mods/lrtactical-1.20.1-0.3.0.jar",
-            "MD5": "58d8b9fecff957f8c8bd2887593187a0",
-            "path": "mods/lrtactical-1.20.1-0.3.0.jar"
+            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/forgemods/required/lrtactical-1.20.1-0.3.0.jar",
+            "MD5": "58d8b9fecff957f8c8bd2887593187a0"
           }
         },
         {
-          "id": "motorcycles-0.0.1-forge-1.20.1.jar",
-          "name": "motorcycles-0.0.1-forge-1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 9936164,
-            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/mods/motorcycles-0.0.1-forge-1.20.1.jar",
-            "MD5": "6c1c7e6b29e3cfe493e1562e9b964b7d",
-            "path": "mods/motorcycles-0.0.1-forge-1.20.1.jar"
-          }
-        },
-        {
-          "id": "mres-0.4-forge-1.20.1.jar",
-          "name": "mres-0.4-forge-1.20.1.jar",
-          "type": "File",
+          "id": "net.mcreator:mres:0.4@jar",
+          "name": "MREs",
+          "type": "ForgeMod",
           "artifact": {
             "size": 794780,
-            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/mods/mres-0.4-forge-1.20.1.jar",
-            "MD5": "9a462f3319ac401b6c9078e598993679",
-            "path": "mods/mres-0.4-forge-1.20.1.jar"
+            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/forgemods/required/mres-0.4-forge-1.20.1.jar",
+            "MD5": "9a462f3319ac401b6c9078e598993679"
           }
         },
         {
-          "id": "oculus-mc1.20.1-1.8.0.jar",
-          "name": "oculus-mc1.20.1-1.8.0.jar",
-          "type": "File",
+          "id": "com.aizistral:nochatreports:1.20.1-v2.2.2@jar",
+          "name": "No Chat Reports",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 2851119,
-            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/mods/oculus-mc1.20.1-1.8.0.jar",
-            "MD5": "1dd891634ac21591b5a692471f112572",
-            "path": "mods/oculus-mc1.20.1-1.8.0.jar"
+            "size": 272740,
+            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/forgemods/required/NoChatReports-FORGE-1.20.1-v2.2.2.jar",
+            "MD5": "3153d1e860c6fefe6dac26efdb5c40c6"
           }
         },
         {
-          "id": "polytone-1.20-3.5.17.jar",
-          "name": "polytone-1.20-3.5.17.jar",
-          "type": "File",
+          "id": "stev6.nomindlessshooting:nomindlessshooting:2.1.0-1.20.1@jar",
+          "name": "NoMindlessShooting",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 1138178,
-            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/mods/polytone-1.20-3.5.17.jar",
-            "MD5": "495e685fe1a76bdbd0e83f3a1e477921",
-            "path": "mods/polytone-1.20-3.5.17.jar"
+            "size": 19065,
+            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/forgemods/required/nomindlessshooting-2.1.0-1.20.1.jar",
+            "MD5": "05077d37019c1ec298d7e2539c7afb79"
           }
         },
         {
-          "id": "tacz-1.20.1-1.1.7-release.jar",
-          "name": "tacz-1.20.1-1.1.7-release.jar",
-          "type": "File",
+          "id": "net.mcreator:parachutemod:1.0.0@jar",
+          "name": "ParachuteMod",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 52403127,
-            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/mods/tacz-1.20.1-1.1.7-release.jar",
-            "MD5": "27696ec987eefbec8e7ba6596e418b35",
-            "path": "mods/tacz-1.20.1-1.1.7-release.jar"
+            "size": 69924,
+            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/forgemods/required/Parachute-Forge.jar",
+            "MD5": "12123adb2048c0bc9e97e34c5e6173d2"
           }
         },
         {
-          "id": "takkit-1.3.1-1.20.1.jar",
-          "name": "takkit-1.3.1-1.20.1.jar",
-          "type": "File",
+          "id": "su.plo.voice:plasmovoice:2.1.8@jar",
+          "name": "Plasmo Voice",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 544155,
-            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/mods/takkit-1.3.1-1.20.1.jar",
-            "MD5": "88448163b2464f47a03bd8196e3f872b",
-            "path": "mods/takkit-1.3.1-1.20.1.jar"
+            "size": 12182458,
+            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/forgemods/required/plasmovoice-forge-1.20.1-2.1.8.jar",
+            "MD5": "234d1a76ae25f5efc220ac879981c7e0"
           }
         },
         {
-          "id": "zmodfood 0.6.5.jar",
-          "name": "zmodfood 0.6.5.jar",
-          "type": "File",
+          "id": "net.mehvahdjukaar:polytone:1.20-3.5.21@jar",
+          "name": "Polytone",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1167305,
+            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/forgemods/required/polytone-1.20-3.5.21.jar",
+            "MD5": "976aab6d7b9ebdc53243551654dd2130"
+          }
+        },
+        {
+          "id": "toni.sodiumdynamiclights:sodiumdynamiclights:1.0.9@jar",
+          "name": "Sodium Dynamic Lights",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 511601,
+            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/forgemods/required/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+            "MD5": "687c18cefa558ca8101ef97914d9ba6b"
+          }
+        },
+        {
+          "id": "com.tacz.presence:tacz_presence:1.1@jar",
+          "name": "TACZ: Presence",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5209806,
+            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/forgemods/required/tacz_presence-1.1.jar",
+            "MD5": "4fe8e8bc839efc0583ba6c8b8d2023ec"
+          }
+        },
+        {
+          "id": "com.tacz.guns:tacz:1.1.7-hotfix@jar",
+          "name": "Timeless & Classics Guns: Zero",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 52425650,
+            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/forgemods/required/tacz-1.20.1-1.1.7-hotfix.jar",
+            "MD5": "e91391b09e25ec5994c28593117f5908"
+          }
+        },
+        {
+          "id": "com.hlhtstudios:taczcustomdeath:1.0.2c@jar",
+          "name": "TACZCustomDeath",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 38636,
+            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/forgemods/required/taczcustomdeath-1.0.2c.jar",
+            "MD5": "be57eef952224954ca8adac47937f576"
+          }
+        },
+        {
+          "id": "com.armatyrich:taczxgunlightsaddon:1.0.7@jar",
+          "name": "TaCZ x Guns Lights Addon",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 39464,
+            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/forgemods/required/taczxgunlightsaddon-1.20.1-1.0.7.jar",
+            "MD5": "4c0ea0dc537a0346b38e99efa3cc5ead"
+          }
+        },
+        {
+          "id": "net.mcreator:takkit:1.3.1@jar",
+          "name": "TakKit",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 544159,
+            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/forgemods/required/takkit-1.3.1-1.20.1.jar",
+            "MD5": "04be0dcecc94731d7dbf87a922d1fcc6"
+          }
+        },
+        {
+          "id": "net.mcreator:zmodfood:1.0.0@jar",
+          "name": "Zmodfood",
+          "type": "ForgeMod",
           "artifact": {
             "size": 548884,
-            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/mods/zmodfood%200.6.5.jar",
-            "MD5": "81204e98f567cd2b7ce9cb51a514a45d",
-            "path": "mods/zmodfood 0.6.5.jar"
+            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/forgemods/required/zmodfood%200.6.5.jar",
+            "MD5": "81204e98f567cd2b7ce9cb51a514a45d"
+          }
+        },
+        {
+          "id": "sodiumdynamiclights-client.toml",
+          "name": "sodiumdynamiclights-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 654,
+            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/config/sodiumdynamiclights-client.toml",
+            "MD5": "a8fcd1a216272d77755b09bdf532219a",
+            "path": "config/sodiumdynamiclights-client.toml"
+          }
+        },
+        {
+          "id": "tacz_presence-client.toml",
+          "name": "tacz_presence-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3068,
+            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/config/tacz_presence-client.toml",
+            "MD5": "9c68401c4bc0c778d7fdc67291ae0839",
+            "path": "config/tacz_presence-client.toml"
           }
         },
         {
@@ -661,20 +774,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 6869,
+            "size": 3069,
             "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/options.txt",
             "path": "options.txt"
-          }
-        },
-        {
-          "id": "DarkAtmosphere2.0.zip",
-          "name": "DarkAtmosphere2.0.zip",
-          "type": "File",
-          "artifact": {
-            "size": 62358,
-            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/resourcepacks/DarkAtmosphere2.0.zip",
-            "MD5": "c3591ad41d65062f67bf55bacc4d096d",
-            "path": "resourcepacks/DarkAtmosphere2.0.zip"
           }
         },
         {
@@ -686,83 +788,6 @@
             "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/servers.dat",
             "MD5": "075bed639b51cfb3348b108982b9ffa9",
             "path": "servers.dat"
-          }
-        },
-        {
-          "id": "ComplementaryUnbound_r5.6.1.zip",
-          "name": "ComplementaryUnbound_r5.6.1.zip",
-          "type": "File",
-          "artifact": {
-            "size": 500699,
-            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.6.1.zip",
-            "MD5": "3f83f81df2ad4608d830017425b45bac",
-            "path": "shaderpacks/ComplementaryUnbound_r5.6.1.zip"
-          }
-        },
-        {
-          "id": "HyShaders Horror.zip",
-          "name": "HyShaders Horror.zip",
-          "type": "File",
-          "artifact": {
-            "size": 2685372,
-            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/shaderpacks/HyShaders%20Horror.zip",
-            "MD5": "083352d954204ab59b70eaa6e53fae30",
-            "path": "shaderpacks/HyShaders Horror.zip"
-          }
-        },
-        {
-          "id": "Lantern-shader-1.1.6.zip",
-          "name": "Lantern-shader-1.1.6.zip",
-          "type": "File",
-          "artifact": {
-            "size": 163227,
-            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/shaderpacks/Lantern-shader-1.1.6.zip",
-            "MD5": "c89e48aba22169ed3fee1294aa1a2100",
-            "path": "shaderpacks/Lantern-shader-1.1.6.zip"
-          }
-        },
-        {
-          "id": "MCPT-preview-2.zip",
-          "name": "MCPT-preview-2.zip",
-          "type": "File",
-          "artifact": {
-            "size": 50313,
-            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/shaderpacks/MCPT-preview-2.zip",
-            "MD5": "9dbc9793bdd2e1cdac72d6113af6f004",
-            "path": "shaderpacks/MCPT-preview-2.zip"
-          }
-        },
-        {
-          "id": "Pastel-Shaders-Universal-v1.200.zip",
-          "name": "Pastel-Shaders-Universal-v1.200.zip",
-          "type": "File",
-          "artifact": {
-            "size": 1023746,
-            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/shaderpacks/Pastel-Shaders-Universal-v1.200.zip",
-            "MD5": "f99b5764648634b39669bb25b6a8330c",
-            "path": "shaderpacks/Pastel-Shaders-Universal-v1.200.zip"
-          }
-        },
-        {
-          "id": "Shrimple_v0.12.zip",
-          "name": "Shrimple_v0.12.zip",
-          "type": "File",
-          "artifact": {
-            "size": 10884315,
-            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/shaderpacks/Shrimple_v0.12.zip",
-            "MD5": "d5d6f377820188147d46775673ea9945",
-            "path": "shaderpacks/Shrimple_v0.12.zip"
-          }
-        },
-        {
-          "id": "Spooklementary_v2.0.2.zip",
-          "name": "Spooklementary_v2.0.2.zip",
-          "type": "File",
-          "artifact": {
-            "size": 551578,
-            "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/shaderpacks/Spooklementary_v2.0.2.zip",
-            "MD5": "2c5e4a4297c303cd4680a2c79a4a02dd",
-            "path": "shaderpacks/Spooklementary_v2.0.2.zip"
           }
         }
       ]

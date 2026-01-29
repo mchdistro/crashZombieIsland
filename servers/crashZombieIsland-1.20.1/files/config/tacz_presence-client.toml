@@ -1,0 +1,107 @@
+
+[presence]
+
+	[presence.screen_shake]
+		#Camera shake intensity multiplier (0.0-5.0)
+		#Range: 0.0 ~ 5.0
+		ShakeMultiplier = 0.2
+		#Max camera shake intensity
+		#Range: 0.0 ~ 100.0
+		MaxShake = 15.0
+		#Low health pulse shake multiplier
+		#Range: 0.0 ~ 100.0
+		PulseShakeMultiplier = 25.0
+
+	[presence.visual_effects]
+		#Damage overlay mode: ALL, GUNS_ONLY, OFF
+		#Allowed Values: ALL, GUNS_ONLY, OFF
+		DamageOverlayMode = "ALL"
+		#Max vignette opacity (0.0-1.0)
+		#Range: 0.0 ~ 1.0
+		VignetteMaxAlpha = 1.0
+		#Vignette fade rate per tick
+		#Range: 0.001 ~ 0.1
+		VignetteDecayRate = 0.005
+
+	[presence.hud]
+		#Gun HUD style: TACZ_HUD (original), TACZ_P_HUD (custom immersive)
+		#Allowed Values: TACZ_HUD, TACZ_P_HUD
+		GunHudType = "TACZ_HUD"
+		#Enable damage direction indicator
+		EnableDamageIndicator = true
+		#Indicator distance from crosshair (0.0-1.0)
+		#Range: 0.05 ~ 0.5
+		DamageIndicatorRadius = 0.25
+		#Indicator base opacity (0.0-1.0)
+		#Range: 0.0 ~ 1.0
+		DamageIndicatorOpacity = 1.0
+
+	[presence.hud_alerts]
+		#Vertical offset for HUD alerts from center
+		#Range: -500 ~ 500
+		AlertYOffset = 60
+		#Scale of HUD alert text
+		#Range: 0.1 ~ 5.0
+		AlertScale = 1.2
+		#Show 'NO AMMO' alert
+		NoAmmoEnabled = false
+		#Color for 'NO AMMO' (Hex format: #RRGGBB)
+		NoAmmoColor = "#FF5555"
+		#Show 'RELOAD' alert
+		ReloadEnabled = false
+		#Color for 'RELOAD' (Hex format: #RRGGBB)
+		ReloadColor = "#FF5555"
+		#Show 'LOW AMMO' alert
+		LowAmmoEnabled = false
+		#Color for 'LOW AMMO' (Hex format: #RRGGBB)
+		LowAmmoColor = "#FFAA00"
+
+	[presence.sounds]
+		#Enable standard hit sound
+		EnableHitSound = true
+		#Enable super hit sound (high damage)
+		EnableSuperHitSound = true
+		#Enable low health heartbeat sound
+		EnableLowHealthHeartbeat = true
+		#Enable low health entry sound
+		EnableLowHealthEntrySound = true
+		#Enable low health exit sound
+		EnableLowHealthExitSound = true
+
+	[presence.sniper_glare]
+		#Enable sniper glare effect visible to other players
+		EnableSniperGlare = true
+		#Minimum scope zoom level to be considered a sniper scope (e.g., 4.0 for 4x zoom)
+		#Range: 1.0 ~ 20.0
+		MinZoomLevel = 4.0
+		#Minimum distance (blocks) to see the glare
+		#Range: 1.0 ~ 100.0
+		MinDistance = 5.0
+		#Base glare size in blocks
+		#Range: 0.5 ~ 20.0
+		BaseSize = 3.0
+		#Size scale when close (at minimum distance)
+		#Range: 0.1 ~ 5.0
+		ScaleClose = 0.5
+		#Size scale at medium distance (50 blocks)
+		#Range: 0.1 ~ 5.0
+		ScaleMid = 1.0
+		#Size scale when far (100+ blocks)
+		#Range: 0.1 ~ 10.0
+		ScaleFar = 1.6
+		#Viewing angle (degrees) from sniper's aim direction to see glare
+		#Range: 10.0 ~ 180.0
+		ViewAngle = 45.0
+		#Glare opacity during clear day (0.0-1.0)
+		#Range: 0.0 ~ 1.0
+		OpacityDay = 1.0
+		#Glare opacity during clear night (0.0-1.0)
+		#Range: 0.0 ~ 1.0
+		OpacityNight = 0.8
+		#Glare opacity during rain (0.0-1.0)
+		#Range: 0.0 ~ 1.0
+		OpacityRain = 0.65
+		#Glare opacity during night + rain (0.0-1.0)
+		#Range: 0.0 ~ 1.0
+		OpacityNightRain = 0.5
+
