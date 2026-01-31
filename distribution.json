@@ -784,9 +784,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 100,
+            "size": 134,
             "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/servers.dat",
-            "MD5": "075bed639b51cfb3348b108982b9ffa9",
+            "MD5": "c9f8fc6d814d54c7db4c3844cc407688",
             "path": "servers.dat"
           }
         }
