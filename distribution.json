@@ -13,7 +13,7 @@
       "description": "Minecraft 1.20.1 (Forge v47.4.10)",
       "icon": "https://github.com/mchdistro/crashZombieIsland/raw/main/server-icon.png",
       "version": "1.0.0",
-      "address": "cte2.servera.cloud:41102",
+      "address": "mc.gotiger.dev:20202",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -784,9 +784,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 134,
+            "size": 242,
             "url": "https://github.com/mchdistro/crashZombieIsland/raw/main/servers/crashZombieIsland-1.20.1/files/servers.dat",
-            "MD5": "c9f8fc6d814d54c7db4c3844cc407688",
+            "MD5": "18e3cd11792e175729ed0491f92fc3c4",
             "path": "servers.dat"
           }
         }
