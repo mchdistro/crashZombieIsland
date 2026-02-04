@@ -2,7 +2,7 @@ version:3465
 guiScale:2
 particles:2
 renderClouds:"fast"
-resourcePacks:["vanilla","tacz_resources","mod_resources"]
+resourcePacks:["vanilla","tacz_resources","mod_resources","file/TZP_1.20.1_2.7.zip"]
 lang:ko_kr
 narrator:0
 tutorialStep:none
@@ -72,5 +72,5 @@ key_key.immersive_aircraft.dismount:key.keyboard.r
 key_key.immersive_aircraft.boost:key.keyboard.unknown
 key_key.curios.open.desc:key.keyboard.t
 key_key.plasmovoice.settings:key.keyboard.grave.accent
-soundCategory_master:0.5
+soundCategory_master:0.25
 soundCategory_music:0.0

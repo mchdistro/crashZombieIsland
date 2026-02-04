@@ -5,14 +5,14 @@
     "name": "추락: 좀비섬 생존기",
     "description": "Minecraft 1.20.1 (Forge v47.4.10)",
     "icon": "https://github.com/mchdistro/crashZombieIsland/raw/main/server-icon.png",
-    "address": "mc.gotiger.dev:20202",
+    "address": "cte2.servera.cloud:41102",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
     "mainServer": true,
-    "autoconnect": true,
+    "autoconnect": false,
     "javaOptions": {
       "supported": "=>21",
       "suggestedMajor": 21,
